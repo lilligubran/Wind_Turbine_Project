@@ -15,16 +15,20 @@ Analysis of wind turbine market in US
 
 ### Project Overview
 
+|Analysis Steps|Tools|
+|--------------|-----|
+|Data Cleaning|Excel, Python|
+|Data Preperation|Excel, Python|
+|Data Analysis|SQL, Python, Tableau|
+Findings and Recommendations|Tableau|
+
 
 ### Data Sources
 
-
-### Tools
-
-- Excel and Python - Data Cleaning
-  - [Download Excel here](https://microsoft.com)
-- SQL - Data Analysis
-- Tableau - Creating reports
+All sources came from [kaggle.com](https://www.kaggle.com)
+pisa2009train.csv
+capstonewithglobalschoolinfo.csv
+PISAmeanperformancescores2015.csv
 
 ### Data cleaning and Preperation
 

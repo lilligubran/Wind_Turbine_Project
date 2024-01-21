@@ -25,7 +25,9 @@ Findings and Recommendations|Tableau|
 
 ### Data Sources
 
-Data dictionary for the wind turbine data (wind_turbine_20220114.csv).
+[Data dictionary](https://eerscmap.usgs.gov/uswtdb/api-doc/) for the wind turbine data (wind_turbine_20220114.csv).
+Data on operators within the U.S. energy space. Data is from [here](https://www.eia.gov/electricity/data/eia923/) (2022: EIA-923
+January 2022 zip file).
 
 ### Data cleaning and Preperation
 

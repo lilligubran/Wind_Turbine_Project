@@ -26,6 +26,7 @@ Findings and Recommendations|Tableau|
 ### Data Sources
 
 [Data dictionary](https://eerscmap.usgs.gov/uswtdb/api-doc/) for the wind turbine data (wind_turbine_20220114.csv).
+
 Data on operators within the U.S. energy space. Data is from [here](https://www.eia.gov/electricity/data/eia923/) (2022: EIA-923
 January 2022 zip file).
 
@@ -40,19 +41,17 @@ In the intiial data preperation phase, we performed the following tasks:
 
 EDA involved in exploring U.S. wind turbine market
 
-- questions
-- we answered
-- here
+- How many wind turbines are contained in the U.S. Wind Turbine Database?
+- Average wind speeds in the U.S.A
+- Should you invest in the wind market? If so, who should you
+approach to fund?
+- Key trends in the U.S. wind market: Land-Based Wind Market Report
+  
 
 ### Data Analysis
 
-Include some intersting code/features worked with 
-if you used SQL include code here
-
-```sql
-SELECT * FROM table1
-WHERE cond = 2;
-```
+For this group data sprint we researched the renewable energy industry and wind turbines to understand what wind
+turbines are, how they work (at a high level), and why they are used.
 
 ### Results and Findings
 

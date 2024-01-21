@@ -25,11 +25,7 @@ Findings and Recommendations|Tableau|
 
 ### Data Sources
 
-All sources came from [kaggle.com](https://www.kaggle.com)
-
--pisa2009train.csv
--capstonewithglobalschoolinfo.csv
--PISAmeanperformancescores2015.csv
+Data dictionary for the wind turbine data (wind_turbine_20220114.csv).
 
 ### Data cleaning and Preperation
 

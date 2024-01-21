@@ -53,15 +53,25 @@ turbines are, how they work (at a high level), and why they are used. We then de
 
 ### Results and Findings
 
-Summary
+![image](https://github.com/lilligubran/Wind_Turbine_Project/assets/155771979/c3e9b256-96ee-41a6-975a-04adde31582e)
+
+![image](https://github.com/lilligubran/Wind_Turbine_Project/assets/155771979/8415572f-8dbf-4b57-885f-d7fff99c54b4)
+
+![image](https://github.com/lilligubran/Wind_Turbine_Project/assets/155771979/9e208077-cef0-41af-b4db-42726b4ef557)
+
 
 ### Recommendations
 
-recommendations
+The wind energy market is underrepresented in the renewable energy space. There is much opportunity for investment. Wind makes up about 25% of the total renewable energy space while there has been continued growth over time in capacity. An effort to increase clean energy sources will likely result in an increase in government incentives. This opens more opportunities for new producers or new investments. If you are investing based on turbine numbers and capacity, we recommend looking at Texas, Iowa and/or Oklahoma. We recommend going with one of the top 15 operators that have a sprawl across the U.S. Wind speed affects turbine capacity but you cannot necassarily harness the wind where it is strongest in the U.S. Choose a top manufacturer with long lasting experience in the market and a variety of turbine sizes for different types of projects. Data available for retrofitting is needed to understand the longevity of your equipment. Siemens-Gamesa, Vestas and GE Wind scored highly with all analysis. 
 
 ### Limitations
 
-limitations 
+- No data prior to 1981 resulting in "incomplete" projects in the data set
+- Retrofitting data was not recorded prior to 2015
+- Manufacturer, model and size of turbines was not recorded until 1983
+- Instances of manufacturers merging with or acquiring other manufacturers in the industry
+- Energy Information Association 2020 data only represents the year 2020- additional years would be beneficial
+- Wind speed 2023 data only represents 2023- additional years would be beneficial
 
 
 

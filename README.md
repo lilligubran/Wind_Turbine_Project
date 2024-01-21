@@ -28,7 +28,7 @@ Findings and Recommendations|Tableau|
 Data on operators within the U.S. energy space. Data is from [here](https://www.eia.gov/electricity/data/eia923/) (2022: EIA-923
 January 2022 zip file).
 
-Wind speeds 2023 
+statewindandpopulation file contains US Wind speeds from 2023 
 
 All files attached above
 

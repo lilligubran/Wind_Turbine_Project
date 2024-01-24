@@ -34,7 +34,7 @@ All files attached above
 
 ### Data cleaning and Preperation
 
-In the intiial data preperation phase, we performed the following tasks:
+In the intial data preperation phase, we performed the following tasks:
 1. Data loading and inspection
 2. Handling null values
 3. Data cleaning and formatting
